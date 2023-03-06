@@ -1,0 +1,4 @@
+Samsung 50 inch TV	sam4342	69	420.69
+LG 64 inch Smart TV	lg48346	420	690.42
+Sony 32 inch TV	sy93847	666	333.33
+Toshiba 48 inch TV	tb38393	1020	739.57
